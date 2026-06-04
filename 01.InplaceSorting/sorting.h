@@ -60,6 +60,7 @@ void to_heap(Iterator begin, int work_space, int i)
 }
 
 
+
 //тут реализована heap sort, но чтобы не менять везде названия, я не переименовывал функцию
 template <typename Iterator>
 void quick_sort(Iterator begin, Iterator end)
